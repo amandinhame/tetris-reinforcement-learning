@@ -9,13 +9,14 @@ Please, for more information read the [report](https://github.com/amandinhame/te
 # Requirements
 
 Software and libraries:
-Python 2.7
-numpy
-pygame
-pandas (Results)
-matplotlib (Results)
+* Python 2.7
+* numpy
+* pygame
+* pandas (Results)
+* matplotlib (Results)
 
 # Running the program
+
+```python
 python learner_run.py
-
-
+```
